@@ -1,6 +1,6 @@
 # Google-Clon
 
-##Setup
+## Setup
 
 Es como vamos a organizar nuestras carpetas y archivos del proyecto.
 Shortcut, abreviación que nos permite generar un grupo de código.
@@ -12,6 +12,6 @@ Shortcut, abreviación que nos permite generar un grupo de código.
 
 Usaremos **GRID** para ayudarnos a posicionar estas etiquetas contenedoras.
 
-* Etiquetas de contenido}
+* Etiquetas de contenido
 
 El **FLEX** lo usaría para posicionar el contenido que esté dentro de esas etiquetas contenedoras.
